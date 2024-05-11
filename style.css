@@ -1,0 +1,285 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+.title{
+    color: #ffffff;
+    font-family:'Cormorant Garamond' ;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 60;
+    margin-bottom: 20px;
+}
+
+.sec1{
+    background-color: #7f7f7f;
+    padding-top: 32px;
+    padding-bottom: 128px;
+}
+
+.sub-title{
+    color: #ffffff;
+    font-family: 'Cormorant Garamond';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 48px;
+}
+
+.sec1-al{
+    color: #ffffff;
+    background-color: #C48A49;
+    font-family: 'Cormorant Garamond';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    display: block;
+    margin-top: 32px;
+    margin: auto;
+    border: none;
+    width: 175px;
+    height: 51px;
+    border-radius:50px;
+    text-transform: uppercase;
+}
+
+.sec-fw{
+    color: #C48A49;
+    font-family: 'Cormorant Garamond';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.sec-aa{
+    color: #555555;
+    font-family: 'Cormorant Garamond';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 60px;
+    width: 613px;
+}
+
+.sig{
+    color:#C48A49 ;
+    margin-top: 20px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.ttt{
+    color: #555555;
+    font-family:'Cormorant Garamond' ;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.swt{
+    color: #C48A49;
+    font-family:'Cormorant Garamond' ;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.ttt{
+    color: #7f7f7f;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.swt2{
+    color: #C48A49;
+}
+.swt3{
+    color: #C48A49;
+}
+
+.swt4{
+    color: #C48A49;
+}
+
+.ttt2{
+    color: #7f7f7f;
+}
+.ttt3{
+    color: #7f7f7f;
+}
+
+.ttt4{
+    color: #7f7f7f;
+}
+
+.yuw{
+    color: #C48A49;
+}
+
+.sec3{
+    background-color: #F5F4EF;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+#sec4{
+    background-color: #21202C;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+.tyu{
+    color: #C48A49;
+}
+
+.rty{
+    color: #ffffff;
+    font-family: 'Cormorant Garamond';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.weh{
+    color: #ffffff;
+    font-family:'Cormorant Garamond' ;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    width: 614px;
+    margin: auto;
+    margin: 60px auto 40px auto;
+}
+
+.xvb{
+    color: #C48A49;
+    font-family:'Cormorant Garamond' ;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+
+.ty{
+    color: #ffffff;
+    font-family:'Cormorant Garamond' ;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    }
+
+.yi{
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.ri{
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.trew{
+    font-family:'Cormorant Garamond' ;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.tio{
+    font-family:'Cormorant Garamond' ;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.ghj{
+    display: block;
+    margin: auto;
+}
+
+.cake-text{
+    font-family: 'Cormorant Garamond';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.sec2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+.sec2-img{
+    display: block;
+    margin: auto;
+}
+
+.sec3-img{
+    display: block;
+    margin: auto;
+}
+
+.cake-pos{
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+
+.form-imput{
+    border: 1px solid #ffffff;
+    background-color: #21202C;
+    width: 440px;
+    height: 48px;
+    border-radius: 12px;
+}
+
+.sup1{
+    color: #555555;
+}
